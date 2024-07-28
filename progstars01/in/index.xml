@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<NotesvelIndex>
+    <MainTitle>プログラマブル・スターズ １</MainTitle>
+    <SubTitle>プログラマブル・スターズ</SubTitle>
+    <Chapters>
+        <Chapter Id="CHPT0000">
+            <Title>序章</Title>
+        </Chapter>
+        <Chapter Id="CHPT0001">
+            <Title>１章</Title>
+        </Chapter>
+        <Chapter Id="CHPT0002">
+            <Title>２章</Title>
+        </Chapter>
+        <Chapter Id="CHPT0003">
+            <Title>３章</Title>
+        </Chapter>
+    </Chapters>
+    <Notes>
+        <Note Id="_GLOSSARY">
+            <Title>用語集</Title>
+        </Note>
+        <Note Id="SAMPLE">
+            <Title>サンプル</Title>
+        </Note>
+    </Notes>
+</NotesvelIndex>

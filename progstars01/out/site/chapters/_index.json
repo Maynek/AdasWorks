@@ -1,0 +1,22 @@
+{
+  "maintitle": "プログラマブル・スターズ １",
+  "subtitle": "プログラマブル・スターズ",
+  "chapters": [
+    {
+      "id": "CHPT0000",
+      "title": "序章"
+    },
+    {
+      "id": "CHPT0001",
+      "title": "１章"
+    },
+    {
+      "id": "CHPT0002",
+      "title": "２章"
+    },
+    {
+      "id": "CHPT0003",
+      "title": "３章"
+    }
+  ]
+}
