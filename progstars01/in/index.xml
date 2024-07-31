@@ -4,8 +4,11 @@
     <MainTitle>プログラマブル・スターズ １</MainTitle>
     <SubTitle>プログラマブル・スターズ</SubTitle>
     <Chapters>
-        <Chapter Id="CHPT0000">
-            <Title>序章</Title>
+        <Chapter Id="CHPT0000-01">
+            <Title>序章・星の輝きをも超えて（１）</Title>
+        </Chapter>
+        <Chapter Id="CHPT0000-02">
+            <Title>序章・星の輝きをも超えて（２）</Title>
         </Chapter>
         <Chapter Id="CHPT0001">
             <Title>１章</Title>
