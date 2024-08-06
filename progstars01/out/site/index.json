@@ -1,22 +1,36 @@
 {
   "maintitle": "プログラマブル・スターズ １",
   "subtitle": "プログラマブル・スターズ",
-  "episodes": [
+  "chapters": [
     {
-      "id": "CHPT0000",
-      "title": "序章"
+      "id": "c0001",
+      "title": "第１章",
+      "episodes": [
+        {
+          "id": "c0001e01",
+          "title": "第１章・本文"
+        }
+      ]
     },
     {
-      "id": "CHPT0001",
-      "title": "１章"
+      "id": "c0002",
+      "title": "第２章",
+      "episodes": [
+        {
+          "id": "c0002e01",
+          "title": "第２章・本文"
+        }
+      ]
     },
     {
-      "id": "CHPT0002",
-      "title": "２章"
-    },
-    {
-      "id": "CHPT0003",
-      "title": "３章"
+      "id": "c0003",
+      "title": "第３章",
+      "episodes": [
+        {
+          "id": "c0003e01",
+          "title": "第３章・本文"
+        }
+      ]
     }
   ]
 }

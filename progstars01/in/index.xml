@@ -3,20 +3,32 @@
 <NotesvelIndex>
     <MainTitle>プログラマブル・スターズ １</MainTitle>
     <SubTitle>プログラマブル・スターズ</SubTitle>
-    <Episodes>
-        <Episode Id="CHPT0000">
-            <Title>序章</Title>
-        </Episode>
-        <Episode Id="CHPT0001">
-            <Title>１章</Title>
-        </Episode>
-        <Episode Id="CHPT0002">
-            <Title>２章</Title>
-        </Episode>
-        <Episode Id="CHPT0003">
-            <Title>３章</Title>
-        </Episode>
-    </Episodes>
+    <Chapters>
+        <Chapter Id="c0001">
+            <Title>第１章</Title>
+            <Episodes>
+                <Episode Id="c0001e01">
+                    <Title>第１章・本文</Title>
+                </Episode>
+            </Episodes>
+        </Chapter>
+        <Chapter Id="c0002">
+            <Title>第２章</Title>
+            <Episodes>
+                <Episode Id="c0002e01">
+                    <Title>第２章・本文</Title>
+                </Episode>
+            </Episodes>
+        </Chapter>
+        <Chapter Id="c0003">
+            <Title>第３章</Title>
+            <Episodes>
+                <Episode Id="c0003e01">
+                    <Title>第３章・本文</Title>
+                </Episode>
+            </Episodes>
+        </Chapter>
+    </Chapters>
     <Notes>
         <Note Id="_GLOSSARY">
             <Title>用語集</Title>
